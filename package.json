@@ -1,7 +1,6 @@
 {
   "name": "centralized-metadata",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,14 @@
   "dependencies": {
     "@thirdweb-dev/sdk": "^3.10.10",
     "dotenv": "^16.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xPASTE/test2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0xPASTE/test2/issues"
+  },
+  "homepage": "https://github.com/0xPASTE/test2#readme",
+  "description": ""
 }
