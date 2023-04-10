@@ -2,15 +2,15 @@
     "nfts": [
       {
         "id": 0,
-        "name": "Blue Circle",
-        "description": "A blue circle NFT from the Shapes Collection",
-        "image": "https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png"
+        "name": "Test",
+        "description": "test test",
+        "image": "https://shuttle-11.estuary.tech/gw/ipfs/bafkreibge4fz5rd5t6iakdcf7xpjifjrhyru5veub3te7z26ay7sowmsc4/"
       },
       {
         "id": 1,
-        "name": "Green Circle",
-        "description": "A green circle NFT from the Shapes Collection",
-        "image": "https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/1.png"
+        "name": "Test",
+        "description": "test test",
+        "image": "https://shuttle-11.estuary.tech/gw/ipfs/bafkreibge4fz5rd5t6iakdcf7xpjifjrhyru5veub3te7z26ay7sowmsc4/"
       }
     ]
   }
