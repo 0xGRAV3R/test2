@@ -4,13 +4,13 @@
         "id": 0,
         "name": "Test",
         "description": "test test",
-        "image": "https://shuttle-11.estuary.tech/gw/ipfs/bafkreibge4fz5rd5t6iakdcf7xpjifjrhyru5veub3te7z26ay7sowmsc4/"
+        "image": "https://gateway.pinata.cloud/ipfs/Qmc13hj2CDWYkKozCEpSPwwXHRkRkqJQFmpGj5wCDLUsdg"
       },
       {
         "id": 1,
         "name": "Test",
         "description": "test test",
-        "image": "https://shuttle-11.estuary.tech/gw/ipfs/bafkreibge4fz5rd5t6iakdcf7xpjifjrhyru5veub3te7z26ay7sowmsc4/"
+        "image": "https://gateway.pinata.cloud/ipfs/Qmc13hj2CDWYkKozCEpSPwwXHRkRkqJQFmpGj5wCDLUsdg"
       }
     ]
   }
